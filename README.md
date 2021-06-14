@@ -1,11 +1,11 @@
-# {<h1> Profile </h1>}
+# Profile 
 
 
-### Hi Everyone !! 👋
+###  Hi Everyone !! 👋 
 <hr>
-<p>I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am very bullish on diving into my first software development job, eager to contribute a lot and learn every day. 😄😄. <p/>
- I am a Full Stack Web Developer, received at <a href="https://www.soyhenry.com/">Henry´s bootcamp</a> with +700 hours.
-</p>
+<p> I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am very bullish on diving into my first software development job, eager to contribute a lot and learn every day. 😄😄. <br/>
+ I am a Full Stack Web Developer, received at <a href="https://www.soyhenry.com/">Henry´s bootcamp</a> with +700 hours. </p>
+ 
 
 > Constantly learning new technologies and deepening those that I already know. 💻 
 
