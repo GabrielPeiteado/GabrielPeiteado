@@ -1,7 +1,5 @@
-# Profile 
+# Hi everyone!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-
-###  Hi Everyone !! 👋 
 <hr>
 <p> I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am very bullish on diving into my first software development job, eager to contribute a lot and learn every day. 😄😄. <br/>
  I am a Full Stack Web Developer, received at <a href="https://www.soyhenry.com/">Henry´s bootcamp</a> with +700 hours. </p>
